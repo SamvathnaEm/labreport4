@@ -17,6 +17,7 @@ Copy the ssh URL ```git@github.com:SamvathnaEm/lab7-report-.git``` of the **lab7
 *Keys pressed:* Type ```"cd lab7-report-"``` and ```<enter>```.
                 Then 
 # Step 7: Edit the code file to fix the failing test
+![Image](step4 (2).png)
 ![Image](step7.png)
 
 *Keys pressed:* 
