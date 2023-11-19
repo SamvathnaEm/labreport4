@@ -15,9 +15,12 @@ Copy the ssh URL ```git@github.com:SamvathnaEm/lab7-report-.git``` of the **lab7
 ![Image](step6.png)
 
 *Keys pressed:* Type ```"cd lab7-report-"``` and ```<enter>```.
-                Then 
+                Then type ```"bash te"```, ```<tab>``` and ```<enter>```.
+
+First, we have to change the working directory to ```/lab7-report-``` directory, and then run the bash scripts in ```test.sh``` to run the junit tests. I pressed ```<tab>``` after finishing typing ```"bash te"``` to speed up the process by overwriting the existing filename inside the  ```/lab7-report-``` directory.
+
 # Step 7: Edit the code file to fix the failing test
-![Image](step4 (2).png)
+![Image](step7(2).png)
 ![Image](step7.png)
 
 *Keys pressed:* 
